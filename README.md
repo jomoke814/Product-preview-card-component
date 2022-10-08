@@ -15,11 +15,11 @@ Users should be able to:
 - CSS Grid
 ### Live preview of the project
 - Live site: 
-- Solution URL: 
+- Solution URL: https://github.com/jomoke814/Product-preview-card-component
 
 ### The desired outcome
 - Desktop and Mobile design:
-![desired outcome](./images/image-product-desktop.jpg)
-![desired outcome](./images/image-product-mobile.jpg)
+![desired outcome](./images/desktop-design.jpg)
+![desired outcome](./images/mobile-design.jpg)
 
 **This is fun building projects like this** 🚀
