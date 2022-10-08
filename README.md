@@ -18,7 +18,7 @@ Users should be able to:
 - Solution URL: 
 
 ### The desired outcome
-Desktop and Mobile design:
+- Desktop and Mobile design:
 ![desired outcome](./images/image-product-desktop.jpg)
 ![desired outcome](./images/image-product-mobile.jpg)
 
