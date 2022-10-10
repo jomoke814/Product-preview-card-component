@@ -14,7 +14,7 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 ### Live preview of the project
-- Live site: 
+- Live site: https://jomoke814.github.io/Product-preview-card-component/
 - Solution URL: https://github.com/jomoke814/Product-preview-card-component
 
 ### The desired outcome
